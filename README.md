@@ -1,7 +1,7 @@
 # restful_tv_show
 Create a restful tv show with Django and using the CRUD comand to add or delete tv shows
 
-**There you can view all the shows
+##There you can view all the shows
 ![allshow](https://user-images.githubusercontent.com/42518969/125699266-835ec6e1-38f1-4533-beed-187c8712fec7.gif)
 
 **Here you can update a show
